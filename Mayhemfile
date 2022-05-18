@@ -1,7 +1,6 @@
 project: rnshah9/playground
 target: playground
 tests: null
-image: ghcr.io/rnshah9/playground:fastlz
 
 cmds:
   - cmd: /repo/examples/6pack @@ out
