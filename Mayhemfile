@@ -1,6 +1,5 @@
-project: rnshah9/playground
-target: playground
-tests: null
+project: fastlz
+target: 6pack
 
 cmds:
-  - cmd: /repo/examples/6pack @@ out
+  - cmd: /repo/examples/6pack @@ /dev/null
