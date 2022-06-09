@@ -2,4 +2,4 @@ project: fastlz
 target: 6pack
 
 cmds:
-  - cmd: /repo/examples/6pack @@ /dev/null
+  - cmd: /repo/examples/6pack @@ out
